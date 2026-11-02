@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Home | Portfolio</title>
+
+    <!-- Google Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600&family=Merriweather:wght@700&display=swap" rel="stylesheet">
+
+    <!-- CSS File -->
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+<header id="top-header">
+    <h1>Danielle Rowe Portfolio</h1>
+
+    <nav>
+        <a href="index.html">Home</a>
+        <a href="projects.html">Projects</a>
+        <a href="about.html">About/Contact</a>
+    </nav>
+</header>
+
+<main>
+
+    <section class="hero">
+        <h2>Welcome</h2>
+        <p>
+            Welcome to my personal portfolio website.
+            Here you can learn more about me and explore my projects.
+        </p>
+    </section>
+
+    <section class="featured-work">
+
+        <div class="card">
+            <h3>Project Preview</h3>
+            <p>Information about a featured project will go here.</p>
+        </div>
+
+        <div class="card">
+            <h3>Future Project</h3>
+            <p>Additional project information will be displayed here.</p>
+        </div>
+
+    </section>
+
+</main>
+
+<footer>
+    <p>&copy; 2026 Danielle Rowe</p>
+</footer>
+
+</body>
+</html>
